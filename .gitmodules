@@ -10,3 +10,9 @@
 [submodule "NierAutomata/NierAutomata_[A]Ending_Easy_Strats"]
 	path = NierAutomata/NierAutomata_[A]Ending_Easy_Strats
 	url = https://gist.github.com/3d232952917dde3f233f8fbc5661e6e5.git
+[submodule "NierAutomata/NierAutomata_[E]Ending_Easy_Strats"]
+	path = NierAutomata/NierAutomata_[E]Ending_Easy_Strats
+	url = https://gist.github.com/8b8042d67c5111bfb4f4b232a081053e.git
+[submodule "Metroid_ZeroMission/Metroid_ZeroMission_Any%_Strats"]
+	path = Metroid_ZeroMission/Metroid_ZeroMission_Any%_Strats
+	url = https://gist.github.com/d7c58f0287ca41df308478e77be557bf.git
