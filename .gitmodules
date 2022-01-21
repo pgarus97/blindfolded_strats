@@ -7,3 +7,6 @@
 [submodule "SM64/SM64_70Star_Strats"]
 	path = SM64/SM64_70Star_Strats
 	url = https://gist.github.com/d5b6c023ae6a6d5c07093a4effa76958.git
+[submodule "NierAutomata/NierAutomata_[A]Ending_Easy_Strats"]
+	path = NierAutomata/NierAutomata_[A]Ending_Easy_Strats
+	url = https://gist.github.com/3d232952917dde3f233f8fbc5661e6e5.git
