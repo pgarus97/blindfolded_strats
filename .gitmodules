@@ -1,3 +1,9 @@
 [submodule "SM64_16Star_2020"]
 	path = SM64/SM64_16Star_2020
 	url = https://gist.github.com/96966f2b490488c55f2686b2aa342f66.git
+[submodule "SM64/SM64_120Star_Strats"]
+	path = SM64/SM64_120Star_Strats
+	url = https://gist.github.com/f0f008a20655f8c6add702ecf69c5f7c.git
+[submodule "SM64/SM64_70Star_Strats"]
+	path = SM64/SM64_70Star_Strats
+	url = https://gist.github.com/d5b6c023ae6a6d5c07093a4effa76958.git
