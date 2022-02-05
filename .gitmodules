@@ -19,3 +19,6 @@
 [submodule "Metroid_Fusion/Metroid_Fusion_100_any_%_Strats"]
 	path = Metroid_Fusion/Metroid_Fusion_100_any_%_Strats
 	url = https://gist.github.com/b95a4cd5e3749eaf5830e3087e4f3797.git
+[submodule "Misc"]
+	path = Misc
+	url = https://gist.github.com/5001520114d5c06405fff74c2d6f95c9.git
