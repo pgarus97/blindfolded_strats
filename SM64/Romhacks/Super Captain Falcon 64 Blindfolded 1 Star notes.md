@@ -1,6 +1,6 @@
 Super Captain Falcon 64
 
-\# DarkWorld
+# DarkWorld
 
 Enter Castle like usual
 
@@ -24,7 +24,7 @@ music cue, then again on 8, double BF, like vanilla to bridge,
 OldStratEnding: punch DJ wallkick U getup, switch, just U into 4xstair
 into 3 steps LJ for pipe
 
-DW-\>DDD
+DW->DDD
 
 Fkick into bonk, Fpunch, JFD/DR into door
 
@@ -36,7 +36,7 @@ DDD: UL beginning vanilla till metal cap wall, R getup x2, CDR max,
 CLx2(1 pseudo), Dtap into Fkick DL hold into slow slide rollout J D J
 for star
 
-\# Firesea
+# Firesea
 
 CDR on exit into U hold , kick into Fkick neutral: if miss BF GPs till
 entry
@@ -59,7 +59,7 @@ triplejump dive into pole, jump from pole and count till 18 then stop
 
 corner:CLx2,Lpunch, 3R,2U 4xLJ into pole, rest vanilla with
 
-\# BLJs
+# BLJs
 
 2BF into exit stage, mario cam U into door tap after opening door again
 
@@ -67,7 +67,7 @@ Vanilla till BLJ spot, hold U till infinite corner, Ltap Fpunch UL
 buffer into DJ getup into 2UL J into U UL wall till door, mario cam
 punch, normal BLJ setup, corner with UL hold CR U instead of pausebuffer
 
-\# Sky
+# Sky
 
 SKY:
 
