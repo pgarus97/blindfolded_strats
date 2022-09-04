@@ -115,6 +115,7 @@ J cancel J attack for 4 hits
 
 DarkBeast:
 
+
 Great Plateau TODO
 
 -   Magnesis door hits restasis
@@ -222,7 +223,7 @@ Mushroom Farm:
 =\> we need 5 + stamina upgrade or 7 without stamina upgrade (or find a
 bow setup without stamina upgrade)
 
-=\> test 4 shrooms + stamina upgrade + slow climb =\> works but its slow
+=\> test 4 shrooms +  stamina upgrade + slow climb =\> works but its slow
 and scary
 
 =\> cannot rely on amiibo shrooms? Only 5% chance...
@@ -417,6 +418,20 @@ reZ into 1R,5shieldbash into Zhold bow, 3 scopes into buffer U
 
 //Potential Lizard Kill: sbuffer R , 2U round bomb, explode into other
 bomb kill 1?
+
+
+# Dark Beast
+mash get off horse TODO
+Z 1L, 5U into bow, 10U, 12L, 2scope, equip bow of light
+wait for big attack into 2L shot
+8R into shot spam for 1 hit
+3L, scope x1 shot 1hit
+3L, scope x4 shot 1hit (after big attack, zelda voice
+5R, scope x2, shot 2hit
+8R, scope x1, wait for big attack into 2L 4R 2L
+1hit (after zelda voice) 
+reZ
+scope x6 into wait for audio cue ("toi!"), J glider bow slowmo 1hit GG
 
 # Great Plateau% Strats (Excluding Amiibo Farm for any% for own RTA)
 
